@@ -1,2 +1,2 @@
-# Processos_Estocasticos
+# Processos Estocásticos
 Repositório destinado à disciplina de Processos Estocásticos
